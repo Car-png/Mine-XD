@@ -1,0 +1,17 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	font-family: sans-serif;
+}
+
+body{
+	background-color: #151515;
+}
+
+h1{
+	color: white;
+	letter-spacing: 5px;
+	line-height: 10px;
+	font-style: oblique;
+}
